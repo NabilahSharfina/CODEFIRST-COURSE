@@ -1,0 +1,56 @@
+.table2 {
+    font-family: sans-serif;
+    background-color: powderblue;
+}
+  
+.div1 {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+  
+.tr1 {
+    text-align: center;
+}
+  
+.table1 {
+    color: black;
+    font-family: sans-serif;
+    padding-left: 100px;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: -20px;
+}
+
+br {
+    display: block;
+    margin: 10px 0;
+}
+
+/* Tampilan Tombol Button & Fungsi Aktif Button */
+button:active{
+transform: scale(1.1);
+}
+
+.contact{
+font-size: 20px;
+color: whitesmoke;
+background-color: rgb(23, 110, 23);
+text-align: center;
+}
+
+.contact:hover{
+color: yellow;
+background-color: grey;
+}
+
+.cv{
+font-size: 20px;
+color: whitesmoke;
+background-color: #0f6288;
+text-align: center;
+}
+
+.cv:hover{
+color: yellow;
+background-color: grey;
+}
